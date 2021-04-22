@@ -1,20 +1,3 @@
 # nuxt-service-factory
 
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+This is the source code repo for [A RESTful service factory approach for NuxtJS](https://brandoverman.github.io/blog/2021-04-18.html#a-restful-service-factory-approach-for-nuxtjs)
